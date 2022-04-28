@@ -1,0 +1,14 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "lab 6",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.25"
+  }
+}
